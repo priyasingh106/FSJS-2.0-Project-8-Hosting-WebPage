@@ -6,7 +6,7 @@
 - Also learned about CSS box model.
 - I took 2 days to complete it.
 
-## [Live Demo Link](https://unrivaled-basbousa-b842cd.netlify.app/)
+## [Live Demo Link](https://luxury-kringle-9e6880.netlify.app/)
 
 ![Project](./Hosting%20Landing%20Page.png)
 
